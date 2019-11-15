@@ -3,7 +3,7 @@ import Input from './Input';
 import ExampleBox from '../../ExampleBox';
 
 const MixUpWithYourFavouriteCSSFramework = () => {
-  const [value, setValue] = useState('Present approaches for styling react components');
+  const [value, setValue] = useState('Present approaches for styling React components');
 
   return (
     <>
